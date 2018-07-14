@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Peachy Canyon Road</name>
+  <desc>This is a 21.19 mi Bike Ride in Paso Robles, CA, United States. The Bike Ride has a total ascent of 2357.1 ft and has a maximum elevation of 1,834.78 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/peachy-canyon-road/</link>
   <trkseg>
    <trkpt lat="35.6205" lon="-120.69486"/>
    <trkpt lat="35.62047" lon="-120.69561"/>

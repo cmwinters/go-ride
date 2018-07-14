@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>Fulton Empire/Empire Grade</name>
+  <name>Felton Empire / Empire Grade</name>
+  <desc>This is a 23.05 mi route in Felton, CA, United States. The route has a total ascent of 3262.64 ft and has a maximum elevation of 2,662.86 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/felton-empire-road-empire-road/</link>
   <trkseg>
    <trkpt lat="37.05286" lon="-122.07323"/>
    <trkpt lat="37.0531" lon="-122.07328"/>

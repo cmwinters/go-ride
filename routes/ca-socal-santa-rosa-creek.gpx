@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Santa Rosa Creek Road</name>
+  <desc>This is a 25.94 mi Bike Ride in Cambria, CA, United States. The Bike Ride has a total ascent of 1794.04 ft and has a maximum elevation of 1,889.11 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/santa-rosa-creek-road/</link>
   <trkseg>
    <trkpt lat="35.56422" lon="-121.08185"/>
    <trkpt lat="35.56432" lon="-121.08153"/>

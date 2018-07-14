@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>East Zayante Road</name>
+  <desc>This is a 22.56 mi route in Mount Hermon, CA, United States. The route has a total ascent of 2423.95 ft and has a maximum elevation of 1,981.36 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/east-zayante-road/</link>
   <trkseg>
    <trkpt lat="37.05017" lon="-122.06484"/>
    <trkpt lat="37.05033" lon="-122.06531"/>

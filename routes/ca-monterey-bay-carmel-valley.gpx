@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>carmel valley road/cachagua road</name>
+  <name>East Carmel Valley Road / Cachagua Road</name>
+  <desc>This is a 60.95 mi route in Carmel Valley Village, CA, United States. The route has a total ascent of 5855.77 ft and has a maximum elevation of 2,415.88 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/east-carmel-valley-road/</link>
   <trkseg>
    <trkpt lat="36.4797" lon="-121.73217"/>
    <trkpt lat="36.47911" lon="-121.73109"/>

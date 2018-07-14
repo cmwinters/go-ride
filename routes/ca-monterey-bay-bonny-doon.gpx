@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Bonny Doon Road</name>
+  <desc>This is a 19.62 mi Bike Ride in Santa Cruz, CA, United States. The Bike Ride has a total ascent of 2813.93 ft and has a maximum elevation of 1,858.01 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/bonny-doon-road/</link>
   <trkseg>
    <trkpt lat="37.00126" lon="-122.18007"/>
    <trkpt lat="37.00163" lon="-122.17946"/>

@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Mt. Figueroa</name>
+  <desc>This is a 40.51 mi Bike Ride in Santa Ynez, CA, United States. The Bike Ride has a total ascent of 4594.45 ft and has a maximum elevation of 4,536.12 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/mt-figueroa/</link>
   <trkseg>
    <trkpt lat="34.66772" lon="-120.11499"/>
    <trkpt lat="34.66552" lon="-120.11504"/>

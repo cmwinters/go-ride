@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>bald rock road</name>
+  <name>Bald Rock Road</name>
+  <desc>This is a 22.04 mi route in Oroville East, CA, United States. The route has a total ascent of 2385.9 ft and has a maximum elevation of 3,560.53 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/bald-rock-road/</link>
   <trkseg>
    <trkpt lat="39.64626" lon="-121.42655"/>
    <trkpt lat="39.64651" lon="-121.42587"/>

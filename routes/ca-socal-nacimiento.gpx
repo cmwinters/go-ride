@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Nacimiento-Fergusson Road</name>
+  <desc>This is a 52.76 mi Bike Ride in Fort Hunter Liggett, CA, United States. The Bike Ride has a total ascent of 4557.24 ft and has a maximum elevation of 2,825.49 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/nacimiento-fergusson-road/</link>
   <trkseg>
    <trkpt lat="36.01524" lon="-121.24929"/>
    <trkpt lat="36.01508" lon="-121.24942"/>

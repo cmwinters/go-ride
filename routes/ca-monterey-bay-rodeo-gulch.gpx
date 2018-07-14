@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>rodeo gulch</name>
+  <name>Rodeo Gulch</name>
+  <desc>This is a 11.11 mi route in Live Oak, CA, United States. The route has a total ascent of 1045.3 ft and has a maximum elevation of 905.38 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/rodeo-gulch-road/</link>
   <trkseg>
    <trkpt lat="36.98757" lon="-121.96945"/>
    <trkpt lat="36.98759" lon="-121.96958"/>

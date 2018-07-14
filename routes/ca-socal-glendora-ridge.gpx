@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>Glendora Mt. Road/Ridge Road</name>
+  <name>Glendora Ridge Road</name>
+  <desc>This is a 43.03 mi Bike Ride in Glendora, CA, United States. The Bike Ride has a total ascent of 4199.25 ft and has a maximum elevation of 4,702.82 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/glendora-ridge-road/</link>
   <trkseg>
    <trkpt lat="34.14702" lon="-117.83833"/>
    <trkpt lat="34.14702" lon="-117.83795"/>

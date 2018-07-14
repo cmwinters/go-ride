@@ -3,6 +3,8 @@
  <trk>
   <name>Quartzville Road</name>
   <desc>This is a 44.45 mi route in Sweet Home, OR, United States. The route has a total ascent of 4384.28 ft and has a maximum elevation of 1,526.25 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/quartzville-drive/</link>
   <trkseg>
    <trkpt lat="44.43031" lon="-122.6107"/>
    <trkpt lat="44.43018" lon="-122.61017"/>

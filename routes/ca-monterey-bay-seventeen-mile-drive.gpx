@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Seventeen-Mile Drive</name>
+  <desc>This is a 17.82 mi Bike Ride in Pacific Grove, CA, United States. The Bike Ride has a total ascent of 1232.0 ft and has a maximum elevation of 791.7 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/seventeen-mile-scenic-drive/</link>
   <trkseg>
    <trkpt lat="36.61518" lon="-121.93168"/>
    <trkpt lat="36.61431" lon="-121.93143"/>

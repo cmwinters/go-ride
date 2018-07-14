@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Gibraltar Road</name>
+  <desc>This is a 22.2 mi Bike Ride in Santa Barbara, CA, United States. The Bike Ride has a total ascent of 4051.35 ft and has a maximum elevation of 3,933.2 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/gibraltar-road/</link>  
   <trkseg>
    <trkpt lat="34.44594" lon="-119.69481"/>
    <trkpt lat="34.44623" lon="-119.69464"/>

@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Bean Creek/Mtn. Charlie/Soquel-San Jose</name>
+  <desc>This is a 33.66 mi route in Scotts Valley, CA, United States. The route has a total ascent of 3557.0 ft and has a maximum elevation of 1,988.78 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/bean-creekmtn-charliesoquel-san-jose/</link>
   <trkseg>
    <trkpt lat="37.04516" lon="-122.02441"/>
    <trkpt lat="37.04525" lon="-122.02444"/>

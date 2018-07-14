@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Robinson Canyon Road</name>
+  <desc>This is a 18.92 mi bike ride in Carmel, CA, United States. The route has a total ascent of 2479.5 ft and has a maximum elevation of 2,109.42 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/robinson-canyon-road/</link>
   <trkseg>
    <trkpt lat="36.52158" lon="-121.80591"/>
    <trkpt lat="36.52137" lon="-121.80609"/>

@@ -2,6 +2,9 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>Parkfield Grade</name>
+  <desc>This is a 18.84 mi route in Coalinga, CA, United States. The route has a total ascent of 2774.86 ft and has a maximum elevation of 3,527.0 ft.</desc>
+  <author>Jay Rawlins</author>
+  <link>http://bestrides.org/parkfield-grade/</link>
   <trkseg>
    <trkpt lat="36.08233" lon="-120.4801"/>
    <trkpt lat="36.08219" lon="-120.48026"/>
